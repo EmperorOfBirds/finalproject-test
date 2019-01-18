@@ -1,2 +1,0 @@
-This text is epic, and it holds birdger like Fortnite.
-It's also a test file to prove that PyCryptodome actually works.
